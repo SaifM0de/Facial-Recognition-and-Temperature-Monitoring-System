@@ -19,4 +19,4 @@ Added features:
 * Virtual Network Computing (VNC) enabled for easy remote access.
 * All data transfers are carried out through a secure VPN tunnel, SSH, and TCP.
 
-Please refer to the "demo" and "animation" files for a brief preview. The programming scripts will be uploaded in the near future.
+Please refer to the "Demo.gif" and "animation.gif" files for a brief preview. The programming scripts will be uploaded in the near future.
